@@ -1,4 +1,4 @@
-### MemcLoad
+###  Go MemcLoad
 
 *Задание*: 
 Создаем простого демона на Go, проводим сравнение с аналогичным на Python.
@@ -7,8 +7,11 @@
 
 go_multithreading.go - скрипт на go (переписанный из прошлого задания memc_load_multithreading.py) 
 
-[//]: # (Результаты выполнения одднопоточного и многопоточного скрипта)
+[//]: # (Результат выполнения  многопоточного скрипта)
 *Тестирование* скриптов производилось на 20170929000000.tsv
+2025/08/01 18:42:48 Read 3424477 lines from /Users/narushanova/PycharmProjects/go_multithreading/sample/.20170929000100.tsv.gz
+2025/08/01 18:42:52 Acceptable error rate (0.0069). Successful load
+2025/08/01 18:42:52 Execution time: 26m34.852032119s
 
 
 [//]: # (Инициализация модуля go)
