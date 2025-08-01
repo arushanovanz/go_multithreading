@@ -1,0 +1,4 @@
+hashring==1.5.1
+pep8==1.7.1
+protobuf==3.20.3
+python-memcached==1.62
